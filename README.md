@@ -12,10 +12,10 @@ CineScope Discovery is a web application designed for movie enthusiasts to explo
 - Responsive design for optimal usability on different devices
 
 ## Technologies Used
-- HTML5
-- CSS
-- JavaScript (ES6)
-- Git
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" width="20"> HTML5
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"> CSS3
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"> JavaScript (ES6)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2000px-Git-logo.svg.png" width="20"> Git
 
 ## Usage
 1. Clone the repository to your local machine.
