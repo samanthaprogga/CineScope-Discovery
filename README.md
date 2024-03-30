@@ -4,6 +4,7 @@ Welcome to CineScope Discovery!
 
 ## Description
 CineScope Discovery is a web application designed for movie enthusiasts to explore and discover new films. With CineScope Discovery, users can search for movies by title and access detailed information about each film, including its description, release year, genre, and running time. The application provides dynamic search suggestions as users type, enhancing the search experience. CineScope Discovery offers a responsive design, ensuring seamless usability across various devices.
+[Click here](https://samanthaprogga.github.io/CineScope-Discovery/)
 
 ## Features
 - Search for movies by title
